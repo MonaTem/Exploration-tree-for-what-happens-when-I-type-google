@@ -22,9 +22,15 @@ Another thing that I really like about it is that the question provides the cont
   - does the interviewee rushes trhrough a specific part, neglecting other parts ? 
   
   
-  # A suggestion to tackle it
+ # A suggestion to tackle it
   
   I think answering it with a general overview, and then optionally going into more detail based on feedback from the person you're explaining it to is actually a pretty important life skill for an engineer. Going into the weeds immediately is not great when you're communicating with people at a different skill level than yourself.
   
   
   
+
+
+# Acknowledgments
+
+- original idea from https://github.com/alex/what-happens-when/blob/master/README.rst#page-rendering
+- hn discussion followin original repo : https://news.ycombinator.com/item?id=8902105
