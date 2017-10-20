@@ -11,6 +11,9 @@
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
-
-- Structure of nodes
-<!-- TODO -->
+- Structure of documents :
+  - nodes and leafs are folders with `index.md` describing the node/leafs
+  - for navigability, each index.md should reference links to:
+    - its parent
+    - its children (if any)
+    - its previous and next siblings (if any)  
