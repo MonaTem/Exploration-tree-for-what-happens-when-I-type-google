@@ -11,11 +11,11 @@ An electrical circuit specific to the enter key is closed (either directly or ca
 
 The OS dispatch the signal to the focused window (this process differs for each OS). And the graphical API of the window that receives the character prints the appropriate font symbol in the appropriate focused field.
 
-## Every time a key is received by the browser
+## The browser receives the key
 
 When you just press "g" the browser receives the event and the entire auto-complete machinery kicks into high gear. Depending on your browser's algorithm and if you are in private/incognito mode or not various suggestions will be presented to you in the dropbox below the URL bar. Most of these algorithms prioritize results based on search history and bookmarks. You are going to type "google.com" so none of it matters, but a lot of code will run before you get there and the suggestions will be refined with each key press. It may even suggest "google.com" before you type it.
 
 
 ## When you press enter
 
-* The browser checks the hostname for characters that are not in ``a-z``, ``A-Z``, ``0-9``, ``-``, or ``.``. Since the hostname is ``google.com`` there won't be any, but if there were the browser would apply `Punycode`_ encoding to the hostname portion of the URL.
+- The browser checks the hostname for characters that are not in ``a-z``, ``A-Z``, ``0-9``, ``-``, or ``.``. Since the hostname is ``google.com`` there won't be any, but if there were the browser would apply `Punycode`_ encoding to the hostname portion of the URL.

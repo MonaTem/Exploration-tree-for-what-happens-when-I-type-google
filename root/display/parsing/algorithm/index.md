@@ -4,10 +4,10 @@ HTML cannot be parsed using the regular top-down or bottom-up parsers.
 
 The reasons are:
 
-* The forgiving nature of the language.
-* The fact that browsers have traditional error tolerance to support well
+-   The forgiving nature of the language.
+-   The fact that browsers have traditional error tolerance to support well
   known cases of invalid HTML.
-* The parsing process is reentrant. For other languages, the source doesn't
+-   The parsing process is reentrant. For other languages, the source doesn't
   change during parsing, but in HTML, dynamic code (such as script elements
   containing `document.write()` calls) can add extra tokens, so the parsing
   process actually modifies the input.
