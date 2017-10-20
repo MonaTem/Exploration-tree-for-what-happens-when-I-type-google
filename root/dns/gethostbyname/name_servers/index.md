@@ -7,7 +7,7 @@ Here is an excellent picture describing the chain of events of a DNS lookup. The
 ![Different sort of name servers](./name_servers.png)
 
 
-- First your computer queries the name server (DNS server) it is set up to use (a DNS server IP is provided in its network configuration). This is the recursive name server shown above. [explore how a machine sends a message to another machine with ip address](../../common/arp/index.md). Port 53 is opened to send a UDP request to DNS server (if the response size is too large, TCP will be used instead).
+- First your computer queries the name server (DNS server) it is set up to use (a DNS server IP is provided in its network configuration). This is the recursive name server shown above. [explore how a machine sends a message to another machine with ip address](../../common/networking/L2/arp/index.md). Port 53 is opened to send a UDP request to DNS server (if the response size is too large, TCP will be used instead).
 
 - The name server check its lookup table and realise it doesn’t know the IP address for www.google.com, so it will start the following chain of queries before it can report back the IP address to your computer :
 
