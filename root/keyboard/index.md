@@ -4,8 +4,8 @@
 
 An electrical circuit specific to the enter key is closed (either directly or capacitively). This allows a small amount of current to flow into the logic circuitry of the keyboard, which scans the state of each key switch, debounces the electrical noise of the rapid intermittent closure of the switch, and converts it to a keycode integer, in this case 13. The keyboard controller then encodes the keycode for transport to the computer. This is now almost universally over a Universal Serial Bus (USB) or Bluetooth connection, but historically has been over PS/2 or ADB connections.
 
-[Go deeper for USB keyboards](./usb_keyboards/index.md)
-[Go deeper for Virtual Keyboards (as in touch screen devices)](./touchescreens/index.md)
+- [Go deeper for USB keyboards](./usb_keyboards/index.md)
+- [Go deeper for Virtual Keyboards (as in touch screen devices)](./touchescreens/index.md)
 
 ## Logical part after key press
 
