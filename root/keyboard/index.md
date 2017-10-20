@@ -18,5 +18,4 @@ When you just press "g" the browser receives the event and the entire auto-compl
 
 ## When you press enter
 
-* The browser checks the hostname for characters that are not in ``a-z``,
-  ``A-Z``, ``0-9``, ``-``, or ``.``. Since the hostname is ``google.com`` there won't be any, but if there were the browser would apply `Punycode`_ encoding to the hostname portion of the URL.
+* The browser checks the hostname for characters that are not in ``a-z``, ``A-Z``, ``0-9``, ``-``, or ``.``. Since the hostname is ``google.com`` there won't be any, but if there were the browser would apply `Punycode`_ encoding to the hostname portion of the URL.
