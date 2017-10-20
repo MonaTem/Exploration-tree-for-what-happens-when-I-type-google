@@ -7,6 +7,6 @@ Internet is a giant network of interconnected machines, mainly "routers" that "r
 So your browser needs to know what is the IP addresse corresponding to "google.com". This is called a "domain name resolution". Here are the different steps involved :
 
 
-- Browser checks if the domain is in its cache. (to see the DNS Cache in Chrome, go to chrome://net-internals/#dns).
+- Browser checks if the domain is in its cache.
 - If not found, the browser calls `gethostbyname` library function (varies by OS) to do the lookup. [explore](./gethostbyname/index.md)
 - Now that your computer has the IP address for google.com, it can access that host. [see what's next](../request/index.md)
