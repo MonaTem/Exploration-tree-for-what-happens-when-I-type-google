@@ -9,6 +9,5 @@ The server received the request [⏮](../request/)
 - The app generates a response (usually HTML)
 - The HTTPD streams the output to the client
 
-
 # Next
 Page is going to be displayed. [⏭](../display/)

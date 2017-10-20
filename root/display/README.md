@@ -12,7 +12,5 @@ Once the server supplies the resources (HTML, CSS, JS, images, etc.) to the brow
 - Parsing - HTML, CSS, JS [(explore)](./parsing/)
 - Rendering - Construct DOM Tree → Render Tree → Layout of Render Tree → Painting the render tree [(explore)](./rendering/)
 
-
-
 # Next
 the page is displayed, there is nothing next until the user does something. Or may be some socket / ajax calls ? some spying ?
