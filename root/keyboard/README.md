@@ -1,4 +1,4 @@
-# your keyboard input is processed to the browser
+# Your keyboard input is processed to the browser
 
 ## Physical part after key press
 
