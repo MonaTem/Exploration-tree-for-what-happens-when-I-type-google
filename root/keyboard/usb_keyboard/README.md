@@ -1,3 +1,4 @@
+# USB keyboards operation
 
 - The USB circuitry of the keyboard is powered by the 5V supply provided over pin 1 from the computer's USB host controller.
 - The keycode generated is stored by internal keyboard circuitry memory in a register called "endpoint".

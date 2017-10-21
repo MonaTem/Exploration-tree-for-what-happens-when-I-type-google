@@ -1,4 +1,4 @@
-# determines the appropriate "scheme" to communicate with the destination.
+# The browser determines the appropriate "scheme" to communicate with the destination.
 
 - The browser checks its preloaded HSTS (HTTP Strict Transport Security) list. This is a list of websites that have requested to be contacted via HTTPS only.
 - If the website is in the list, the browser sends its request via HTTPS instead of HTTP.

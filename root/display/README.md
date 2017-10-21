@@ -1,6 +1,3 @@
-# Before
-The server streamed its response to the client. [⏮](../server/)
-
 # The browser displays the page
 
 The browser's functionality is to present the web resource you choose (usually an HTML document, but may also be a PDF, image, or some other type of content).
@@ -11,6 +8,3 @@ Once the server supplies the resources (HTML, CSS, JS, images, etc.) to the brow
 
 - Parsing - HTML, CSS, JS [(explore)](./parsing/)
 - Rendering - Construct DOM Tree → Render Tree → Layout of Render Tree → Painting the render tree [(explore)](./rendering/)
-
-# Next
-the page is displayed, there is nothing next until the user does something. Or may be some socket / ajax calls ? some spying ?
