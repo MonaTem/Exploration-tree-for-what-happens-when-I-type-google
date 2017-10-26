@@ -11,6 +11,8 @@ That's why this "answer" focus on explorative learning. Instead of having a line
 
 # Get started ! :rocket:
 
+![](http://nutritionhealth.fit/wp-content/uploads/2016/03/start-here-red.png)
+
 The repo is meant to be browsed easily. The root is [here](./root/).
 
 
