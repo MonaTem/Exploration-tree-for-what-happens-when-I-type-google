@@ -9,12 +9,12 @@ I think answering it with a general overview, and then optionally going into mor
 That's why this "answer" focus on explorative learning. Instead of having a linear list of micro bullet points, which can easily overwhelm the reader, the aim is to build a tree anyone can travel at his chosen depth and continuously adapt it depending on its needs.
 
 
-# Get started !
+# Get started ! :rocket:
 
 The repo is meant to be browsed easily. The root is [here](./root/).
 
 
-# Why is it a great interview question
+# Why is it a great interview question ?
 
 I have been asked this questions in interviews, and I have asked it multiple times. I love it because you get to test technical knowledge and people skills at the same time. You get to know :
 
