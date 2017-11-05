@@ -8,12 +8,9 @@
 - Links should be relatives
 
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](./CONTRIBUTING.md)
 ```
 
 - Structure of documents :
-  - nodes and leafs are folders with `index.md` describing the node/leafs
-  - for navigability, each index.md should reference links to:
-    - its parent
-    - its children (if any)
-    - its previous and next siblings (if any)  
+  - nodes and leafs are folders with `README.md` describing the node/leafs. It enables github/gitlab to automatically render the files when you browse the folders.
+  - for navigability, each `README.md` should reference links to its children (if any)
