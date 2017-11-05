@@ -1,6 +1,6 @@
 # Intro
 
-This is an attempt at collaborative answering the famous question
+This is an attempt at collaboratively building a tree to answer the famous question
 
 >"What happens when you type google.com into your browser's address box and press enter?"
 
