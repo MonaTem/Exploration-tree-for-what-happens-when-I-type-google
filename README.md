@@ -4,9 +4,9 @@ This is an attempt at collaboratively building a tree to answer the famous quest
 
 >"What happens when you type google.com into your browser's address box and press enter?"
 
-I think answering it with a general overview, and then optionally going into more detail based on feedback from the person you're explaining it to is the best way to tackle this question. And this is also a pretty important life skill for an engineer : going into the weeds immediately is not great when you're communicating with people at a different skill level than yourself.
+Answering with a general overview, and then optionally going into more detail based on feedback from the person you're explaining it to is the best way to tackle this question. And this is also a pretty important life skill for an engineer : going into the weeds immediately is not great when you're communicating with people at a different skill level than yourself.
 
-That's why this "answer" focus on explorative learning. Instead of having a linear list of micro bullet points, which can easily overwhelm the reader, the aim is to build a tree anyone can travel at his chosen depth and continuously adapt it depending on its needs.
+That's why this "answer" focus on building a **tree**. Instead of having a linear list of micro bullet points, which can easily overwhelm the reader, the goal is provide a way to explore the answer at your chosen depth depending on your needs.
 
 
 # Get started ! :rocket:
