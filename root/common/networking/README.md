@@ -9,9 +9,9 @@ The model is a product of the Open Systems Interconnection project at the Intern
 
 # The layers
 
-| # | Layers        | Protocol data unit (PDU)      | Function  | Example protocols
-|   | ------------- |-------------| -----| --- |
-| 7 | Application | Data | High-level APIs, including resource sharing, remote file access | HTTP, FTP, DNS, SNMP
+| # | Layers        | Protocol data unit (PDU)      | Function  | Example protocols |
+| -- | ------------- |-------------| -----| --- |
+| 7 | Application | Data | High-level APIs, including resource sharing, remote file access | HTTP, FTP, DNS, SNMP |
 | 6  | Presentation  | Data  | Translation of data between a networking service and an application; including character encoding, data compression and encryption/decryption  | SSL, TLS  |
 | 5  | Session  | Data  | Managing communication sessions, i.e. continuous exchange of information in the form of multiple back-and-forth transmissions between two nodes  | PPTP, L2TP  |
 | 4 | Transport  | Segment (TCP) / Datagram (UDP)  | Reliable transmission of data segments between points on a network, including segmentation, acknowledgement and multiplexing  | TCP, UDP  |
